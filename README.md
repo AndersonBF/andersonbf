@@ -1,5 +1,5 @@
 
-- 🖥️ Atualmente aprendendo C/C++ , HTML/CSS/React e OpenCV em Python
+- 🖥️ Atualmente aprendendo OpenCV em Python
 
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonbf&show_icons=true&theme=dark)
