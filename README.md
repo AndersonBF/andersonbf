@@ -1,5 +1,5 @@
 
-- 🖥️ Atualmente aprendendo OpenCV em Python
+- 🖥️ Aprendendo OpenCV em Python
 
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonbf&show_icons=true&theme=dark)
