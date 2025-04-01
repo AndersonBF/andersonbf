@@ -2,7 +2,7 @@
 - 🖥️ Aprendendo OpenCV em Python
 
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonbf&show_icons=true&theme=dark)
+![Anderson Github stats](https://github-readme-stats.vercel.app/api?username=andersonbf&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbf&layout=compact)](https://github.com/andersonbf/github-readme-stats)
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1siGz8Blvpd61MInRUXWKA) 
