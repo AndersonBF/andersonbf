@@ -1,5 +1,6 @@
 
 - 🖥️ Aprendendo OpenCV em Python
+- Aprendendo Next.Js 
 
 
 ![Anderson Github stats](https://github-readme-stats.vercel.app/api?username=andersonbf&show_icons=true&theme=dark)
